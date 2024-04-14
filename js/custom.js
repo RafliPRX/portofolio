@@ -1,6 +1,7 @@
 (function ($) {
 
   "use strict";
+  js_version=1.0;
 
     // COLOR MODE
     $('.color-mode').click(function(){
